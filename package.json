@@ -1,0 +1,22 @@
+{
+  "name": "gulp-string",
+  "version": "0.0.1",
+  "description": "Implementation of javascript String routines which may be useful in gulp.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/djtregear/gulp-string.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "string",
+    "file",
+    "filename"
+  ],
+  "author": "David Tregear",
+  "license": "MIT"
+}
